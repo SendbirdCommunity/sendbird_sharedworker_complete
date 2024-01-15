@@ -1,0 +1,6 @@
+.parcel-cache
+Dist
+node_modules
+Package-lock.json
+.env
+bundle.js
